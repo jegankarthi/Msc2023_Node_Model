@@ -18,7 +18,6 @@
    - Users
    - Halls
    - Bookings
-   - Payments
 
 4. **What fields are necessary for each entity?**
    - Users: name, email, password, role
